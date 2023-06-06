@@ -1,0 +1,25 @@
+/* Write your code here. */
+.list-box {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  margin: auto;
+  padding: 10px;
+}
+
+.button {
+  cursor: pointer;
+  border: 3px solid #ffffff33;
+  border-radius: 24px;
+  height: 120px;
+  width: 120px;
+  justify-content: space-around;
+  align-items: center;
+  background-color: #ffffff33;
+}
+
+.emoji {
+  height: 90px;
+  width: 90px;
+}

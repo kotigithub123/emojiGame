@@ -1,0 +1,27 @@
+/* Write your code here. */
+.card-container {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  border: 3px solid #ffffff33;
+  padding: 30px;
+}
+
+.color {
+  color: #ffffff;
+}
+
+.score-color {
+  color: #6a59ff;
+  font-size: 20px;
+}
+
+.playButton {
+  cursor: pointer;
+  outline: none;
+  background-color: #ffce27;
+  border: 0px solid;
+  border-radius: 10px;
+  height: 30px;
+  font-size: 10px;
+}
